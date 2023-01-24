@@ -1,0 +1,16 @@
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\DelegateGyakorlat\DelegateGyakorlat\bin\Debug\DelegateGyakorlat.exe.config
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\DelegateGyakorlat\DelegateGyakorlat\bin\Debug\DelegateGyakorlat.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\DelegateGyakorlat\DelegateGyakorlat\bin\Debug\DelegateGyakorlat.pdb
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\DelegateGyakorlat\DelegateGyakorlat\obj\Debug\DelegateGyakorlat.csproj.AssemblyReference.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\DelegateGyakorlat\DelegateGyakorlat\obj\Debug\DelegateGyakorlat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\DelegateGyakorlat\DelegateGyakorlat\obj\Debug\DelegateGyakorlat.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\DelegateGyakorlat\DelegateGyakorlat\obj\Debug\DelegateGyakorlat.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\DelegateGyakorlat\DelegateGyakorlat\obj\Debug\DelegateGyakorlat.pdb
+E:\Cuccok\Programozás\C#\DelegateGyakorlas\DelegateGyakorlat\bin\Debug\DelegateGyakorlat.exe.config
+E:\Cuccok\Programozás\C#\DelegateGyakorlas\DelegateGyakorlat\bin\Debug\DelegateGyakorlat.exe
+E:\Cuccok\Programozás\C#\DelegateGyakorlas\DelegateGyakorlat\bin\Debug\DelegateGyakorlat.pdb
+E:\Cuccok\Programozás\C#\DelegateGyakorlas\DelegateGyakorlat\obj\Debug\DelegateGyakorlat.csproj.AssemblyReference.cache
+E:\Cuccok\Programozás\C#\DelegateGyakorlas\DelegateGyakorlat\obj\Debug\DelegateGyakorlat.csproj.SuggestedBindingRedirects.cache
+E:\Cuccok\Programozás\C#\DelegateGyakorlas\DelegateGyakorlat\obj\Debug\DelegateGyakorlat.csproj.CoreCompileInputs.cache
+E:\Cuccok\Programozás\C#\DelegateGyakorlas\DelegateGyakorlat\obj\Debug\DelegateGyakorlat.exe
+E:\Cuccok\Programozás\C#\DelegateGyakorlas\DelegateGyakorlat\obj\Debug\DelegateGyakorlat.pdb
